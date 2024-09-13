@@ -1,4 +1,5 @@
 <?php
+// require adnanhussainturki/microsoft-api-php this library using composer before using
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
